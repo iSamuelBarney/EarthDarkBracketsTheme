@@ -1,0 +1,33 @@
+/*
+
+    Name:       Earth (Dark)
+    Author:     Samuel Barney
+
+    Color scheme by Samuel Barney (https://github.com/samuelbarney)
+
+*/
+
+.cm-s-earth-dark.CodeMirror {background: #332525; color: #CCADAD;}
+.cm-s-earth-dark div.CodeMirror-selected {background: #121212 !important;}
+.cm-s-earth-dark .CodeMirror-gutters {background: #332D2F; border-right: 0px;}
+.cm-s-earth-dark .CodeMirror-linenumber {color: #776e71;}
+.cm-s-earth-dark .CodeMirror-cursor {border-left: 2px solid #f4f4f4 !important;}
+
+.cm-s-earth-dark span.cm-comment {color: #826863;}
+.cm-s-earth-dark span.cm-atom {color: #870E4F;}
+.cm-s-earth-dark span.cm-number {color: #815ba4;}
+
+.cm-s-earth-dark span.cm-property, .cm-s-earth-dark span.cm-attribute {color: #48b685;}
+.cm-s-earth-dark span.cm-keyword {color: #E66717;}
+.cm-s-earth-dark span.cm-string {color: #fec418;}
+
+.cm-s-earth-dark span.cm-variable {color: #48b685;}
+.cm-s-earth-dark span.cm-variable-2 {color: #06b6ef;}
+.cm-s-earth-dark span.cm-def {color: #f99b15;}
+.cm-s-earth-dark span.cm-bracket {color: #b9b6b0;}
+.cm-s-earth-dark span.cm-tag {color: #E66717;}
+.cm-s-earth-dark span.cm-link {color: #870E4F;}
+.cm-s-earth-dark span.cm-error {background: #E66717; color: #CCADAD;}
+
+.cm-s-earth-dark .CodeMirror-activeline-background {background: #332D2F !important;}
+.cm-s-earth-dark .CodeMirror-matchingbracket { text-decoration: none; color: white !important;}
